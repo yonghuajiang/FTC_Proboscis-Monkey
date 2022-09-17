@@ -16,7 +16,9 @@ Patrick Yin - Builder
 
 Tyson Zheng - Builder
 
-Engineer Notebook:
+Engineering Notebook:
+
+https://docs.google.com/document/d/1SNvS2Gnoe0nIMUkWU73DF6kExDs0NNTglhJKMsS70WA/edit
 
 Scoring Sheet:
 
